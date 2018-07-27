@@ -1,0 +1,11 @@
+$bg-color:#ccc;
+
+body{
+  background: $bg-color;
+  margin: 30px;
+  text-align: center;
+
+  #start{
+    margin-top: 300px;
+  }
+}
